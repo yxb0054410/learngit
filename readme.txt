@@ -2,8 +2,9 @@
 this is error;
 int main(void)
 {
-printf("this is error");
-
+printf（“这是错误”）;
+并没有什么意义;
+只是学习；
 
 return 0;
 }
